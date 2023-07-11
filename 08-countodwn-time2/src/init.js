@@ -1,0 +1,1 @@
+import './events/loadPageEvent.js';
